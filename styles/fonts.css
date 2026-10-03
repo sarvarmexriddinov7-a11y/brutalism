@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Fustat';
+  src: url('../fonts/Fustat-Bold.ttf');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Fustat';
+  src: url('../fonts/Fustat-Light.ttf');
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Fustat';
+  src: url('../fonts/Fustat-Regular.ttf');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Fustat';
+  src: url('../fonts/Fustat-Medium.ttf');
+  font-style: normal;
+  font-weight: 500;
+}
